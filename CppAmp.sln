@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppAmpVectorAddition", "CppAmpVectorAddition\CppAmpVectorAddition.vcxproj", "{7F3425C0-4755-4927-87EA-09A071903442}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppAmpVectorAddition2Dimensions", "CppAmpVectorAddition2Dimensions\CppAmpVectorAddition2Dimensions.vcxproj", "{329A6D91-7CDC-410B-B7E0-515730167290}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayViewSynchronize", "ArrayViewSynchronize\ArrayViewSynchronize.vcxproj", "{C8A88DC5-1F0E-4671-85CA-5471F635CDF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiling", "Tiling\Tiling.vcxproj", "{D8D88855-E412-41E2-B95F-479B0DC5A931}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Barriers", "Barriers\Barriers.vcxproj", "{B217FC7D-5AA3-4A69-B6BC-6F7E619BD63B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayPrettyPrinter", "ArrayPrettyPrinter\ArrayPrettyPrinter.vcxproj", "{7387967F-C056-4F45-A38E-856A9B75E31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3425C0-4755-4927-87EA-09A071903442}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F3425C0-4755-4927-87EA-09A071903442}.Debug|Win32.Build.0 = Debug|Win32
+		{7F3425C0-4755-4927-87EA-09A071903442}.Release|Win32.ActiveCfg = Release|Win32
+		{7F3425C0-4755-4927-87EA-09A071903442}.Release|Win32.Build.0 = Release|Win32
+		{329A6D91-7CDC-410B-B7E0-515730167290}.Debug|Win32.ActiveCfg = Debug|Win32
+		{329A6D91-7CDC-410B-B7E0-515730167290}.Debug|Win32.Build.0 = Debug|Win32
+		{329A6D91-7CDC-410B-B7E0-515730167290}.Release|Win32.ActiveCfg = Release|Win32
+		{329A6D91-7CDC-410B-B7E0-515730167290}.Release|Win32.Build.0 = Release|Win32
+		{C8A88DC5-1F0E-4671-85CA-5471F635CDF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8A88DC5-1F0E-4671-85CA-5471F635CDF3}.Debug|Win32.Build.0 = Debug|Win32
+		{C8A88DC5-1F0E-4671-85CA-5471F635CDF3}.Release|Win32.ActiveCfg = Release|Win32
+		{C8A88DC5-1F0E-4671-85CA-5471F635CDF3}.Release|Win32.Build.0 = Release|Win32
+		{D8D88855-E412-41E2-B95F-479B0DC5A931}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8D88855-E412-41E2-B95F-479B0DC5A931}.Debug|Win32.Build.0 = Debug|Win32
+		{D8D88855-E412-41E2-B95F-479B0DC5A931}.Release|Win32.ActiveCfg = Release|Win32
+		{D8D88855-E412-41E2-B95F-479B0DC5A931}.Release|Win32.Build.0 = Release|Win32
+		{B217FC7D-5AA3-4A69-B6BC-6F7E619BD63B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B217FC7D-5AA3-4A69-B6BC-6F7E619BD63B}.Debug|Win32.Build.0 = Debug|Win32
+		{B217FC7D-5AA3-4A69-B6BC-6F7E619BD63B}.Release|Win32.ActiveCfg = Release|Win32
+		{B217FC7D-5AA3-4A69-B6BC-6F7E619BD63B}.Release|Win32.Build.0 = Release|Win32
+		{7387967F-C056-4F45-A38E-856A9B75E31C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7387967F-C056-4F45-A38E-856A9B75E31C}.Debug|Win32.Build.0 = Debug|Win32
+		{7387967F-C056-4F45-A38E-856A9B75E31C}.Release|Win32.ActiveCfg = Release|Win32
+		{7387967F-C056-4F45-A38E-856A9B75E31C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
